@@ -1,2 +1,11 @@
 start the server:
 jekyll --server --auto & compass watch
+
+Jekyll doc
+https://github.com/mojombo/jekyll/wiki
+
+Liquid doc
+https://github.com/Shopify/liquid/wiki
+
+Compass doc
+http://compass-style.org/reference/compass/
